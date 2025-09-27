@@ -1,4 +1,4 @@
-# Cat-and-Dog-Image-Classifier
+# Image-Classifier
 
 A deep learning model that classifies images as either cats or dogs using convolutional neural networks (CNNs).
 
